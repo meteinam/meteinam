@@ -1,9 +1,43 @@
-Hi, I’m Metehan İnam
-I’m sophomore student at Bilecik Seyh Edebali University in Turkey.
-I'm studying Computer Engineering.
+# METEHAN İNAM
+![metehan inam](https://github.com/meteinam/meteinam/blob/main/Screenshot_1.png)
 
+## EDUCATION
+> Currently studying Computer Engineering at **Bilecik Seyh Edebali University** and Bussines at **Anadolu University** in Turkey.
 
-<!---
-meteinam/meteinam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## GOAL
+> My main goal is become a educated developer and make useful software projcets for people's daily life.
+
+## SKILLS
+- C
+- C++
+- C#
+- Java
+- HTML5 CSS
+- JavaScript
+- ASP.NET MVC
+- MSSQL
+- KOTLIN
+- ADOBE Premiere, Photoshop, Lightroom, After Effects, InDesign, Illustrator
+
+## LANGUAGES
+- Turkish (native)
+- English (fluent)
+- German (beginner)
+- Japanese (beginner)
+
+## EXPERIENCE
+- Press team member at Bilecik Seyh Edebali University (part-time)
+- Freelancer for developing, graphic design and video editing
+
+## CERTIFICATES
+- MCMUN'18 Delegate of Austria for ECOFIN
+- GCMUN'19 Press Team Member
+- NHCMUN'19 Press Team Member
+- MUNEPAL'19 Delegate of Syrian Arab Republic for ECOSOC 
+
+## Hobbies
+> *Basketball* 
+> *photography* 
+> *watch movies* 
+> *video games* etc.
+
