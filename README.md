@@ -33,7 +33,7 @@
 - MCMUN'18 Delegate of Austria for ECOFIN
 - GCMUN'19 Press Team Member
 - NHCMUN'19 Press Team Member
-- MUNEPAL'19 Delegate of Syrian Arab Republic for ECOSOC 
+- MUNEPAL'19 Delegate of Syrian Arab Republic for UNODC 
 
 ## Hobbies
 > *Basketball* 
