@@ -28,6 +28,7 @@
 ## EXPERIENCE
 - Press team member at Bilecik Seyh Edebali University (part-time)
 - Freelancer for developing, graphic design and video editing
+- Intern at ROBEFF Technology
 
 ## CERTIFICATES
 - MCMUN'18 Delegate of Austria for ECOFIN
