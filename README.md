@@ -5,7 +5,7 @@
 > Currently studying Computer Engineering at **Bilecik Seyh Edebali University** and Bussines at **Anadolu University** in Turkey.
 
 ## GOAL
-> My main goal is become a educated developer and make useful software projcets for people's daily life.
+> My main goal is become an educated developer and make useful software projcets for people's daily life.
 
 ## SKILLS
 - C
