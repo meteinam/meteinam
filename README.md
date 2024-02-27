@@ -10,13 +10,12 @@
 ## SKILLS
 - C
 - C++
-- C#
+- Dart, Flutter
 - Java
 - HTML5 CSS
 - JavaScript
 - ASP.NET MVC
 - MSSQL
-- KOTLIN
 - ADOBE Premiere, Photoshop, Lightroom, After Effects, InDesign, Illustrator
 
 ## LANGUAGES
@@ -28,7 +27,8 @@
 ## EXPERIENCE
 - Press team member at Bilecik Seyh Edebali University (part-time)
 - Freelancer for developing, graphic design and video editing
-- Intern at ROBEFF Technology
+- UI Developer at ROBEFF Teknoloji(Turkey)
+- Intern at MİA Teknoloji (Turkey)
 
 ## CERTIFICATES
 - MCMUN'18 Delegate of Austria for ECOFIN
