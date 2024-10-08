@@ -1,20 +1,14 @@
 # METEHAN İNAM
-![metehan inam](https://github.com/meteinam/meteinam/blob/main/Screenshot_1.png)
-
 ## EDUCATION
-> Currently studying Computer Engineering at **Bilecik Seyh Edebali University** and Bussines at **Anadolu University** in Turkey.
+> Currently studying Computer Engineering at **Bilecik Seyh Edebali University** and Business at **Anadolu University** in Turkey.
 
 ## GOAL
-> My main goal is become an educated developer and make useful software projcets for people's daily life.
+> My main goal is to become an educated developer and make useful software projects for people's daily lives.
 
 ## SKILLS
-- C
-- C++
+-.Net EF Core
 - Dart, Flutter
-- Java
-- HTML5 CSS
-- JavaScript
-- ASP.NET MVC
+- Postgres
 - MSSQL
 - ADOBE Premiere, Photoshop, Lightroom, After Effects, InDesign, Illustrator
 
@@ -26,7 +20,7 @@
 
 ## EXPERIENCE
 - Press team member at Bilecik Seyh Edebali University (part-time)
-- Freelancer for developing, graphic design and video editing
+- Freelancer for developing, graphic design, and video editing
 - UI Developer at ROBEFF Teknoloji(Turkey)
 - Intern at MİA Teknoloji (Turkey)
 
