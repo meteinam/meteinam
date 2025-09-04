@@ -1,9 +1,6 @@
 # METEHAN İNAM
 ## EDUCATION
-> Currently studying Computer Engineering at **Bilecik Seyh Edebali University** and Business at **Anadolu University** in Turkey.
-
-## GOAL
-> My main goal is to become an educated developer and make useful software projects for people's daily lives.
+> Computer Engineering at **Bilecik Seyh Edebali University** and Business at **Anadolu University** in Turkey.
 
 ## SKILLS
 -.Net EF Core
@@ -15,14 +12,13 @@
 ## LANGUAGES
 - Turkish (native)
 - English (fluent)
-- German (beginner)
-- Japanese (beginner)
 
 ## EXPERIENCE
 - Press team member at Bilecik Seyh Edebali University (part-time)
 - Freelancer for developing, graphic design, and video editing
-- UI Developer at ROBEFF Teknoloji(Turkey)
-- Intern at MİA Teknoloji (Turkey)
+- UI Developer at ROBEFF Teknoloji A.Ş. (Turkey)
+- Intern at MİA Teknoloji A.Ş. (Turkey)
+- Flutter Developer at Endurans Teknoloji A.Ş.
 
 ## CERTIFICATES
 - MCMUN'18 Delegate of Austria for ECOFIN
