@@ -3,7 +3,7 @@
 > Computer Engineering at **Bilecik Seyh Edebali University** and Business at **Anadolu University** in Turkey.
 
 ## SKILLS
--.Net EF Core
+- .Net EF Core
 - Dart, Flutter
 - Postgres
 - MSSQL
